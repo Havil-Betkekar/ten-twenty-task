@@ -57,7 +57,7 @@ NextAuth.js - v5 beta - Authentication
 - **Edit and Create actions**: Both open the same Add Entry modal — pre-filled for edit, empty for create.
 - **Test Date Range**: To test the date range filter (to test the filter section),
   use `2026-01-05` to `2026-03-13` which covers weeks 1-7
-
+- ** Remember me functionality is not added for now
 ## Time Spent
 | Task | Time |
 |---|---|
