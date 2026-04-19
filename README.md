@@ -1,10 +1,10 @@
 # Ten-Twenty Timesheet task
 
-## Live demo url:
-
-## Setup Instructions
+## Live demo url: https://tentwentytask.vercel.app
 
 ### Test Credentials
+
+## Setup Instructions
 
 ```
 Email: admin@tentwenty.com
@@ -54,8 +54,9 @@ NextAuth.js - v5 beta - Authentication
 
 - **Authentication**: Implemented using NextAuth.js v5 with dummy credentials. In a real app this would connect to a backend API or database.
 - **Data Persistence**: Timesheet data is seeded from mock data and persisted in `localStorage`. Data survives page refreshes but resets if browser storage is cleared.
-- **API Routes**: All client side API calls go through internal Next.js API routes as required. These act as a middleware layer between the frontend and data source.
 - **Edit and Create actions**: Both open the same Add Entry modal — pre-filled for edit, empty for create.
+- **Test Date Range**: To test the date range filter (to test the filter section),
+  use `2026-01-05` to `2026-03-13` which covers weeks 1-7
 
 ## Time Spent
 | Task | Time |
