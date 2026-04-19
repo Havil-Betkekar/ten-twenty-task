@@ -58,7 +58,8 @@ NextAuth.js - v5 beta - Authentication
 - **Edit and Create actions**: Both open the same Add Entry modal — pre-filled for edit, empty for create.
 
 ## Time Spent
-
+| Task | Time |
+|---|---|
 | Project setup and NextAuth | ~1 hour |
 | Mock data, Types and API routes | ~3 hour |
 | Login page UI | ~1 hour |
@@ -67,7 +68,7 @@ NextAuth.js - v5 beta - Authentication
 | Bug fixes and UI polish | ~2 hour |
 | **Total** | **~14 hours** |
 
-## 🔑 Environment Variables
+## Environment Variables
 
 | Variable | Description |
 |---|---|
